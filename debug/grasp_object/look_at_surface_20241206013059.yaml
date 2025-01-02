@@ -1,0 +1,37 @@
+camera_depth_image_filename: null
+image.dtype: uint8
+image.shape:
+- 334
+- 434
+image_filename: /home/hello-robot/stretch_user/debug/grasp_object/look_at_surface_20241206013059_image.npy.gz
+image_origin:
+- 0.012
+- 1.988
+- 0.0
+m_per_height_unit: 0.004566929133858267
+m_per_pix: 0.006
+np.max(image): null
+rgb_image_filename: /home/hello-robot/stretch_user/debug/grasp_object/look_at_surface_20241206013059_rgb.png
+transform_corrected_to_original: null
+transform_original_to_corrected: null
+visualization_filename: /home/hello-robot/stretch_user/debug/grasp_object/look_at_surface_20241206013059_visualization.png
+voi_data:
+  axes:
+  - - 0.9999996820199427
+    - 0.0007974710110139056
+    - 0.0
+  - - -0.0007974710110139056
+    - 0.9999996820199427
+    - 0.0
+  - - 0.0
+    - 0.0
+    - 1.0
+  frame_id: map
+  origin:
+  - -1.3022842972335273
+  - -2.199287707373988
+  - -0.03
+  - 1.0
+  x_in_m: 2.6
+  y_in_m: 2.0
+  z_in_m: 1.16
